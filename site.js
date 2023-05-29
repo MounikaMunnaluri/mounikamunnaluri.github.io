@@ -1,1 +1,1 @@
-alert("helo from js")
+console.log("helo from js")
