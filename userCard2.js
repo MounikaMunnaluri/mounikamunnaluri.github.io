@@ -12,7 +12,7 @@ let gandhiyounginfo = {
 
 let isgandhiold = true;
 let displayobject;
-let flipdate = function(){
+let flipdata = function(){
     if(isgandhiold == true){
         displayobject = gandhiyounginfo;
         isgandhiold = false;
