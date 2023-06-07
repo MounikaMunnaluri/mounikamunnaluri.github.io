@@ -21,5 +21,6 @@ let flipdate = function(){
         displayobject = gandhioldinfo;
         isgandhiold = true;
     }
-    document.getelementById("gandhi-img")
+    document.getelementById("gandhi-img");
+    document.getelementById("mahatma-name");
 }
